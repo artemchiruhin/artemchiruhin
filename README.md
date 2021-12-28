@@ -2,7 +2,8 @@
 Меня зовут Артём, это мой скромный GitHub профиль. 
 Здесь я публикую примеры своих работ. Из имеющихся:
 - Свой сайт на gitpages (HTML, CSS, JS) 
-- Небольшой форум на PHP (мой первый PHP проект) 
+- Небольшой форум на PHP (мой первый PHP проект)
+- Сайт библиотеки на PHP (небольшой учебный проект, направленный больше на SEO)
 - Браузерная игра на JS
 - Discord бот на NodeJS
 
@@ -16,6 +17,7 @@ My name is Artyom, this is my humble GitHub profile.
 Here I publish examples of my study works. You can see:
 - My own website on Gitpages (it's made by HTML, CSS and JS) 
 - Simple forum that was made by PHP
+- Library website (simple study project that is directed to SEO) 
 - Browser Javascript game
 - Discord bot that was made by NodeJS
 
