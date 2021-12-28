@@ -6,6 +6,7 @@
 - Браузерная игра на JS
 - Discord бот на NodeJS
 
+
 Я занимаюсь веб-разработкой, знаю HTML, CSS, JS, PHP. В дальнейшем хочу двигаться в сторону Front-end, а именно ReactJS. 
 
 # Hello! 
@@ -15,6 +16,7 @@ Here I publish examples of my study works. You can see:
 - Simple forum that was made by PHP
 - Browser Javascript game
 - Discord bot that was made by NodeJS
+
 
 I'm a beginner web-developer, I have learnt HTML, CSS, JS, PHP. I want to become a front-end developer (ReactJS) in the future. 
 
