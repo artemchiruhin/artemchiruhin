@@ -3,7 +3,7 @@
 Здесь я публикую примеры своих работ. Из имеющихся:
 - Свой [сайт](https://github.com/artemchiruhin/artemchiruhin.github.io) на gitpages (HTML, CSS, JS) 
 - Небольшой [форум](https://github.com/artemchiruhin/forum) на PHP (мой первый PHP проект)
-- Сайт [библиотеки](https://mylibrary.000webhostapp.com) на PHP (небольшой учебный проект, направленный больше на SEO)
+- Сайт [библиотеки](https://github.com/artemchiruhin/mylibrary) на PHP (небольшой учебный проект, направленный больше на SEO)
 - Браузерная [игра](https://github.com/artemchiruhin/game) на JS
 - [Discord бот](https://github.com/artemchiruhin/discord_bot) на NodeJS
 
