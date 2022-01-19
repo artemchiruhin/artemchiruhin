@@ -2,6 +2,7 @@
 Меня зовут Артём, это мой скромный GitHub профиль. 
 Здесь я публикую примеры своих работ. Из имеющихся:
 - Свой [сайт](https://github.com/artemchiruhin/artemchiruhin.github.io) на gitpages (HTML, CSS, JS) 
+- Учебный [проект](https://github.com/artemchiruhin/myhouse) на Laravel
 - Небольшой [форум](https://github.com/artemchiruhin/forum) на PHP (мой первый PHP проект)
 - Сайт [библиотеки](https://github.com/artemchiruhin/mylibrary) на PHP (небольшой учебный проект, направленный больше на SEO)
 - Браузерная [игра](https://github.com/artemchiruhin/game) на JS
@@ -16,6 +17,7 @@
 My name is Artyom, this is my humble GitHub profile. 
 Here I publish examples of my study works. You can see:
 - My own website on Gitpages (it's made by HTML, CSS and JS) 
+- Study Laravel project
 - Simple forum that was made by PHP
 - Library website (simple study project that is directed to SEO) 
 - Browser Javascript game
