@@ -11,6 +11,8 @@
 
 Я занимаюсь веб-разработкой, знаю HTML, CSS, JS, PHP.
 
+Изучаю Laravel и Vue. 
+
 В дальнейшем хочу двигаться в сторону Front-end (React, Vue). 
 
 # Hello! 
@@ -25,6 +27,8 @@ Here I publish examples of my study works. You can see:
 
 
 I'm a beginner web-developer, I have learnt HTML, CSS, JS, PHP.
+
+Now I learn Laravel and Vue. 
 
 I want to become a front-end developer (React or Vue) in the future. 
 
