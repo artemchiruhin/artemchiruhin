@@ -1,3 +1,5 @@
+![itsme](https://sun9-8.userapi.com/impg/OSziafbNJDKDSRkMxneK_-rugUCEz9DYd4T6Ww/8TDWLj2jvXw.jpg?size=1000x300&quality=96&sign=965595672d03c0175e4213fcf6cdaecf&type=album)
+
 # Привет! 
 Меня зовут Артём, это мой скромный GitHub профиль. 
 Здесь я публикую примеры своих работ. Из имеющихся:
