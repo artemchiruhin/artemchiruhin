@@ -1,10 +1,10 @@
-![itsme](https://sun9-8.userapi.com/impg/OSziafbNJDKDSRkMxneK_-rugUCEz9DYd4T6Ww/8TDWLj2jvXw.jpg?size=1000x300&quality=96&sign=965595672d03c0175e4213fcf6cdaecf&type=album)
-
-# Привет! 
+# 👋 Привет!
 Меня зовут Артём, это мой скромный GitHub профиль. 
 Здесь я публикую примеры своих работ. Из имеющихся:
 - Свой [сайт](https://github.com/artemchiruhin/artemchiruhin.github.io) на gitpages (HTML, CSS, JS). *Однажды он будет адаптирован по мобильные устройства*
-- Учебный [проект](https://github.com/artemchiruhin/myhouse) на Laravel
+- Учебный [проект](https://github.com/artemchiruhin/myhouse) на Laravel (курсовой проект)
+- Учебный [проект](https://github.com/artemchiruhin/myhotel) на Laravel (производственная практика)
+- Учебный [проект](https://github.com/artemchiruhin/myshop) на Laravel (учебная практика)
 - Небольшой [форум](https://github.com/artemchiruhin/forum) на PHP (мой первый PHP проект, созданный в рамках подготовки к WorldSkills)
 - Сайт [библиотеки](https://github.com/artemchiruhin/mylibrary) на PHP (небольшой учебный проект, направленный больше на SEO)
 - Браузерная [игра](https://github.com/artemchiruhin/game) на JS
@@ -13,7 +13,9 @@
 
 Я занимаюсь веб-разработкой, знаю HTML, CSS, JS, PHP.
 
-Изучаю Laravel и Vue. 
+Изучаю Laravel и Vue.
+
+Знаю английский на хорошем уровне.
 
 В дальнейшем хочу двигаться в сторону Front-end (React, Vue). 
 
@@ -21,7 +23,7 @@
 My name is Artyom, this is my humble GitHub profile. 
 Here I publish examples of my study works. You can see:
 - My own website on Gitpages (it's made by HTML, CSS and JS) 
-- Study Laravel project
+- Study Laravel projects
 - Simple forum that was made by PHP
 - Library website (simple study project that is directed to SEO) 
 - Browser Javascript game
