@@ -2,6 +2,7 @@
 Меня зовут Артём, это мой скромный GitHub профиль. 
 Здесь я публикую примеры своих работ. Из имеющихся:
 - Свой [сайт](https://github.com/artemchiruhin/artemchiruhin.github.io) на gitpages (HTML, CSS, JS). *Однажды он будет адаптирован под мобильные устройства*
+- Учебный [проект](https://github.com/artemchiruhin/myclinic) на Laravel (дипломный проект)
 - Учебный [проект](https://github.com/artemchiruhin/myhouse) на Laravel (курсовой проект)
 - Учебный [проект](https://github.com/artemchiruhin/myhotel) на Laravel (производственная практика)
 - Учебный [проект](https://github.com/artemchiruhin/myshop) на Laravel (учебная практика)
