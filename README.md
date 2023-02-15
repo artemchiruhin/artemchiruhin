@@ -15,11 +15,11 @@
 
 Я занимаюсь веб-разработкой, знаю HTML, CSS, JS, PHP.
 
-Изучаю Laravel и Vue.
+Изучаю Laravel и React.
 
 Знаю английский на хорошем уровне.
 
-В дальнейшем хочу двигаться в сторону Front-end (React, Vue). 
+В дальнейшем хочу двигаться в сторону Front-end (React, Next). 
 
 # Hello! 
 My name is Artyom, this is my humble GitHub profile. 
@@ -34,7 +34,7 @@ Here I publish examples of my study works. You can see:
 
 I'm a beginner web-developer, I have learnt HTML, CSS, JS, PHP.
 
-Now I learn Laravel and Vue. 
+Now I learn Laravel and React. 
 
-I want to become a front-end developer (React or Vue) in the future. 
+I want to become a front-end developer (React or Next) in the future. 
 
